@@ -1,0 +1,19 @@
+{
+  "name": "rock-tool",
+  "version": "1.0.0",
+  "description": "'常用的方法库'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BubblingFish/rock-tools.git"
+  },
+  "author": "BubblingFilsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BubblingFish/rock-tools/issues"
+  },
+  "homepage": "https://github.com/BubblingFish/rock-tools#readme"
+}
